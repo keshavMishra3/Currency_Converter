@@ -11,10 +11,10 @@ Currency Converter is a web application that allows users to convert amounts bet
 
 ##Usage
 
--1.Enter the amount you wish to convert.
--2.Select the currency you are converting from.
--3.Select the currency you are converting to.
--4.Click the "Get Exchange Rate" button to view the conversion result.
+- 1.Enter the amount you wish to convert.
+- 2.Select the currency you are converting from.
+- 3.Select the currency you are converting to.
+- 4.Click the "Get Exchange Rate" button to view the conversion result.
 
 ## Technologies Used
 
